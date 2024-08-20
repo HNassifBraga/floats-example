@@ -58,10 +58,22 @@ footer
     width: 99%;
     margin: 0;
 }
-.float-left
+.clear-both
 {
     float: left;
     width: 250px;
     height: auto;
     border: 3px solid goldenrod;
+}
+.clear-both1
+{
+    float: right;
+    width: 250px;
+    height: auto;
+    border: 3px solid goldenrod;
+}
+
+.int
+{
+    clear: both;
 }
